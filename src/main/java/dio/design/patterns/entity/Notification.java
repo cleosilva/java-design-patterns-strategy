@@ -12,9 +12,7 @@ public class Notification {
     private Long id;
     private String message;
 
-    public Notification(Long id, String message) {
-        this.id = id;
-        this.message = message;
+    public Notification() {
     }
 
     public Long getId() {
