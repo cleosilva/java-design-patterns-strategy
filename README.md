@@ -53,7 +53,7 @@ Clone o repositório:
 ````bash
 Copiar código
 git clone https://github.com/cleosilva/java-design-patterns-strategy.git
-cd sistema-notificacoes
+cd java-design-patterns-strategy
 ````
 Compile o projeto: Certifique-se de ter o Maven configurado e execute:
 
